@@ -2,6 +2,18 @@
 
 @b9_nico
 
+### Vue2
+---
+```
+<script src="https://cdn.jsdelivr.net/npm/vue@2"></script>
+```
+
+### Vue2-progress-bar
+---
+```
+<script src="https://ajax-nico.oss-ap-southeast-7.aliyuncs.com/vue-progress-bar/index.js"></script>
+```
+
 ### JQuery
 ---
 ```
