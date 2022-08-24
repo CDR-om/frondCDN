@@ -14,6 +14,12 @@
 <script src="https://ajax-nico.oss-ap-southeast-7.aliyuncs.com/vue-progress-bar/index.js"></script>
 ```
 
+### Axios
+---
+```
+<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+```
+
 ### JQuery
 ---
 ```
